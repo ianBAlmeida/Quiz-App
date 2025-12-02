@@ -12,6 +12,20 @@ O projeto serviu como uma introdução ao mundo do desenvolvimento de aplicativo
 *   **Lógica em Dart:** Implementação das regras do quiz, como pontuação e navegação entre perguntas.
 *   **Layouts Responsivos:** Criação de uma interface simples que se adapta a diferentes telas.
 
+## 📲 Instalação Rápida (Android)
+
+Para testar o aplicativo diretamente em um dispositivo Android sem precisar compilar o código, você pode baixar o arquivo de instalação `.apk`.
+
+1.  **Baixe o aplicativo:**
+
+    *   [**Clique aqui para fazer o download do `quiz_app.apk`**](./quiz_app.apk)
+
+2.  **Instale no seu dispositivo:**
+
+    *   Após o download, abra o arquivo no seu celular ou tablet Android para instalar.
+    
+    *   **Observação:** Pode ser necessário habilitar a "instalação de aplicativos de fontes desconhecidas" nas configurações de segurança do seu Android.
+
 
 ## 🌱 Aprendizados
 
