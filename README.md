@@ -1,16 +1,29 @@
-# quiz_app
+# ❓ Quiz App - Meu Primeiro Projeto em Flutter
 
-A new Flutter project.
+## 📖 Sobre o Projeto
 
-## Getting Started
+Este é um aplicativo de quiz simples, desenvolvido como meu primeiro projeto prático utilizando o framework Flutter. O objetivo principal foi aplicar os conceitos fundamentais de desenvolvimento mobile com Dart e Flutter, aprendidos durante um curso na plataforma Udemy.
 
-This project is a starting point for a Flutter application.
+O projeto serviu como uma introdução ao mundo do desenvolvimento de aplicativos multiplataforma, abordando temas como:
 
-A few resources to get you started if this is your first Flutter project:
+*   **Estrutura de um projeto Flutter:** Entendimento da organização de pastas e arquivos.
+*   **Widgets:** Construção da interface utilizando Widgets `Stateless` e `Stateful`.
+*   **Gerenciamento de Estado:** Manipulação básica do estado da aplicação para controlar o fluxo do quiz.
+*   **Lógica em Dart:** Implementação das regras do quiz, como pontuação e navegação entre perguntas.
+*   **Layouts Responsivos:** Criação de uma interface simples que se adapta a diferentes telas.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 📸 Screenshots
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+| Tela Inicial | Tela de Pergunta | Tela de Resultado |
+| :----------: | :---------------: | :-----------------: |
+| ![Tela Inicial](!(image.png)) | ![Tela de Pergunta](!(image-1.png)) | ![Tela de Resultado](!(image-2.png)) |
+
+## 🚀 Como Executar o Projeto
+
+Para executar este projeto localmente, você precisará ter o [Flutter SDK](https://flutter.dev/docs/get-started/install) instalado em sua máquina.
+
+
+
+## 🌱 Aprendizados
+
+Como meu primeiro contato com Flutter, este projeto foi fundamental para solidificar meu entendimento sobre o desenvolvimento de interfaces declarativas e o gerenciamento de estado de forma simples. Foi um excelente ponto de partida para explorar tecnologias mais avançadas no ecossistema Flutter.
