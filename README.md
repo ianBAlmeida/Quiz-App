@@ -12,17 +12,6 @@ O projeto serviu como uma introdução ao mundo do desenvolvimento de aplicativo
 *   **Lógica em Dart:** Implementação das regras do quiz, como pontuação e navegação entre perguntas.
 *   **Layouts Responsivos:** Criação de uma interface simples que se adapta a diferentes telas.
 
-## 📸 Screenshots
-
-| Tela Inicial | Tela de Pergunta | Tela de Resultado |
-| :----------: | :---------------: | :-----------------: |
-| ![Tela Inicial](!(image.png)) | ![Tela de Pergunta](!(image-1.png)) | ![Tela de Resultado](!(image-2.png)) |
-
-## 🚀 Como Executar o Projeto
-
-Para executar este projeto localmente, você precisará ter o [Flutter SDK](https://flutter.dev/docs/get-started/install) instalado em sua máquina.
-
-
 
 ## 🌱 Aprendizados
 
